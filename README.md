@@ -2,14 +2,14 @@
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 
-A Python toolkit designed to streamline and enhance bioanalysis workflows. This repository provides a collection of individual Python scripts, each with its own README.md containing specific usage instructions, for common tasks in biological data analysis, with a focus on efficiency and reproducibility.
+A Python toolkit designed to streamline and enhance bioanalysis workflows. This repository provides a collection of individual Python scripts, each with its own README.md containing specific usage instructions, for common tasks in biological data analysis, with a focus on efficiency and reproducibility.  
+New scripts will be added periodically. 
 
 ## Table of Contents
 
 * [Features](#features)
 * [Installation](#installation)
 * [Dependencies](#dependencies)
-* [Contributing](#contributing)
 * [License](#license)
 * [Author](#author)
 
@@ -23,12 +23,26 @@ This toolkit offers the following key features:
 * **Statistical Analysis:** Scripts for performing common statistical tests and analyses.
 * **Data Visualization:** Scripts for creating informative plots and visualizations.
 * **Sequence Analysis:** Scripts for basic sequence manipulation and analysis.
-* **File Handling:** Scripts for file input/output and manipulation.
 
 ## Installation
 
-Since this toolkit consists of individual Python scripts, you can use them by downloading the specific `.py` files you need. However, it's recommended to clone the entire repository to easily access all scripts and their associated READMEs:
+Since this toolkit consists of individual Python scripts, you can use them by downloading the specific `.py` files you need.
 
-```bash
-git clone [https://github.com/your-username/python-bioanalysis-toolkit.git](https://github.com/your-username/python-bioanalysis-toolkit.git)
-cd python-bioanalysis-toolkit
+
+## Dependencies
+The scripts in this toolkit may have varying dependencies. Please refer to the README.md file within each script's directory for a list of required Python packages.  However, common dependencies may include:
+
+* Python 3.7 or higher
+* pandas
+* numpy
+* scipy
+* matplotlib
+* biopython
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the https://www.google.com/search?q=LICENSE file for details.
+
+## Author
+Dr. Fabio H.S. Rodrigues  
+rodriguesfhs.dr@gmail.com  
+[LinkedIn](www.linkedin.com/in/rodriguesfhs)  
